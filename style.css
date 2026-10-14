@@ -97,3 +97,6 @@ html[lang^=zh] h1,html[lang^=zh] h2,html[lang^=zh] .brand{font-family:"Noto Seri
 .stats b small{font-size:.55em;color:var(--muted);font-weight:600}.stats .sep{width:1px;background:var(--line);align-self:stretch}
 .snote{font-size:.76rem;color:var(--muted);margin:8px 0 0}
 @media(max-width:720px){.stats .sep{display:none}}
+.appts{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.ap{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:8px;transition:.25s}.ap:hover{transform:translateY(-3px);border-color:var(--accent)}.ap p{margin:0;font-size:.93rem;font-weight:500;line-height:1.5}
+@media(max-width:1100px){.links a{padding:6px 7px;font-size:.85rem}}
