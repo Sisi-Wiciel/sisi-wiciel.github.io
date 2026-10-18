@@ -109,7 +109,7 @@
 (function(){
 const D=JSON.parse(document.getElementById('pubdata').textContent),P=D.publications,ME=['Sisi Zheng','郑思思'];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const auth=p=>p.authors.map(a=>ME.includes(a)?`<b class="me">${esc(a)}${p.cofirst?'<sup>#</sup>':''}${p.corr?'<sup>*</sup>':''}</b>`:esc(a)).join(', ');
+const auth=p=>p.authors.map((a,i)=>{const isMe=ME.includes(a);const last=i===p.authors.length-1;const star=p.corr&&(isMe||last)?'<sup>*</sup>':'';const hash=p.cofirst&&isMe?'<sup>#</sup>':'';return isMe?`<b class="me">${esc(a)}${hash}${star}</b>`:`${esc(a)}${star}`;}).join(', ');
 const venue=p=>{let v=`<i>${esc(p.venue)}</i>`;if(p.volume)v+=` ${esc(p.volume)}`;if(p.number)v+=`(${esc(p.number)})`;if(p.pages)v+=`: ${esc(p.pages)}`;return v+(p.year?`, ${p.year}`:'')};
 const T={en:{pubs:'publications',en:'English',zh:'中文',key:'first / co-first / corresp.',cit:'citations',h:'h-index',i10:'i10-index',b1:'First author',b2:'Co-first',b3:'Corresponding',b4:'Last author',gen:'English Publications',gzh:'中文论文 · Chinese Publications',nd:'n.d.',none:'No matching publications.',count:(a,b)=>`${a} of ${b} shown`,more:'Show all publications ▾',less:'Show less ▴',q:'Search title, author, journal…',sch:'Scholar'},
 zh:{pubs:'篇论文',en:'英文',zh:'中文',key:'第一/共一/通讯',cit:'总被引',h:'h指数',i10:'i10指数',b1:'第一作者',b2:'共同第一',b3:'通讯作者',b4:'末位作者',gen:'英文论文',gzh:'中文论文',nd:'年份不详',none:'没有匹配的论文。',count:(a,b)=>`显示 ${a} / ${b} 篇`,more:'展开全部论文 ▾',less:'收起 ▴',q:'搜索标题、作者、期刊…',sch:'谷歌学术'}};
