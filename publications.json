@@ -40,7 +40,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Clinical%20Improvement%20Following%20Multimodal%20Treatment%20in%20Depersonalization-Derealization%20Disorder%3A%20A%20Case%20Report%22",
    "corr": true,
    "cofirst": false,
-   "doi": "10.3791/73632"
+   "doi": "10.3791/73632",
+   "cofirst_authors": [],
+   "corr_authors": [
+    "Sisi Zheng",
+    "Hong Zhu"
+   ]
   },
   {
    "title": "Understanding psychiatrist readiness for AI: a study of access, self-efficacy, trust, and design expectations",
@@ -63,7 +68,15 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Understanding%20psychiatrist%20readiness%20for%20AI%3A%20a%20study%20of%20access%2C%20self-efficacy%2C%20trust%2C%20and%20design%20expectations%22",
    "corr": true,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [
+    "Yue He",
+    "Francis Xiatian Zhang"
+   ],
+   "corr_authors": [
+    "Sisi Zheng",
+    "Hong Zhu"
+   ]
   },
   {
    "title": "Application of wind medicinals in the treatment of emotional diseases",
@@ -83,7 +96,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Application%20of%20wind%20medicinals%20in%20the%20treatment%20of%20emotional%20diseases%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Temporal variations in serum metabolites of bipolar disorder around the summer solstice: A targeted metabolomics study",
@@ -106,7 +121,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Temporal%20variations%20in%20serum%20metabolites%20of%20bipolar%20disorder%20around%20the%20summer%20solstice%3A%20A%20targeted%20metabolomics%20study%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Cross-view Multimodal Vision-Based Assessment Framework for Traditional Chinese Medicine Rehabilitation Training",
@@ -130,7 +147,16 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Cross-view%20Multimodal%20Vision-Based%20Assessment%20Framework%20for%20Traditional%20Chinese%20Medicine%20Rehabilitation%20Training%22",
    "corr": true,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [
+    "Francis Xiatian Zhang",
+    "Hao Yao",
+    "Shengxuan Chen"
+   ],
+   "corr_authors": [
+    "Sisi Zheng",
+    "Hubert P. H. Shum"
+   ]
   },
   {
    "title": "An analysis of the neural mechanisms underlying cognitive impairment in depersonalization-derealization disorder based on low-frequency fluctuation",
@@ -150,7 +176,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22An%20analysis%20of%20the%20neural%20mechanisms%20underlying%20cognitive%20impairment%20in%20depersonalization-derealization%20disorder%20based%20on%20low-frequency%20fluctuation%22",
    "corr": true,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": [
+    "Sisi Zheng",
+    "Hongxiao Jia"
+   ]
   },
   {
    "title": "Reanalysis of Public Transcriptomes Reveals Shared Immune Signatures Between Major Depressive Disorder And Dermatomyositis With Single-Cell Context",
@@ -174,7 +205,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Reanalysis%20of%20Public%20Transcriptomes%20Reveals%20Shared%20Immune%20Signatures%20Between%20Major%20Depressive%20Disorder%20And%20Dermatomyositis%20With%20Single-Cell%20Context%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Altered Cerebro-Cerebellar Functional Connectivity Associated With Working Memory Decline After Sleep Deprivation",
@@ -197,7 +230,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20Cerebro-Cerebellar%20Functional%20Connectivity%20Associated%20With%20Working%20Memory%20Decline%20After%20Sleep%20Deprivation%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Dysfunctional large-scale brain networks in drug-naïve depersonalization-derealization disorder patients",
@@ -225,7 +260,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Dysfunctional%20large-scale%20brain%20networks%20in%20drug-na%C3%AFve%20depersonalization-derealization%20disorder%20patients%22",
    "corr": false,
    "cofirst": true,
-   "doi": "10.1186/s12888-025-06497-w"
+   "doi": "10.1186/s12888-025-06497-w",
+   "cofirst_authors": [
+    "Sisi Zheng",
+    "Mingkang Song"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Altered Self-Referential-Related Brain Regions in Depersonalization-Derealization Disorder",
@@ -251,7 +291,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20Self-Referential-Related%20Brain%20Regions%20in%20Depersonalization-Derealization%20Disorder%22",
    "corr": true,
    "cofirst": false,
-   "doi": "10.1002/brb3.70314"
+   "doi": "10.1002/brb3.70314",
+   "cofirst_authors": [],
+   "corr_authors": [
+    "Mingkang Song",
+    "Sisi Zheng"
+   ]
   },
   {
    "title": "Investigating seasonal metabolic variations in bipolar disorder: a targeted metabolomics study",
@@ -275,7 +320,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Investigating%20seasonal%20metabolic%20variations%20in%20bipolar%20disorder%3A%20a%20targeted%20metabolomics%20study%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Abnormal top-down and bottom-up attention patterns in patients suffering from coronary heart disease with heart qi deficiency syndrome",
@@ -296,7 +343,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Abnormal%20top-down%20and%20bottom-up%20attention%20patterns%20in%20patients%20suffering%20from%20coronary%20heart%20disease%20with%20heart%20qi%20deficiency%20syndrome%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Research on core syndrome of generalized anxiety disorder in traditional Chinese medicine: based on network analysis method",
@@ -320,7 +369,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Research%20on%20core%20syndrome%20of%20generalized%20anxiety%20disorder%20in%20traditional%20Chinese%20medicine%3A%20based%20on%20network%20analysis%20method%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Qingre Jiedu recipe in the treatment of bipolar depression with the syndrome of internal stagnation of fire-heat: a randomized double-blind controlled trial",
@@ -342,7 +393,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Qingre%20Jiedu%20recipe%20in%20the%20treatment%20of%20bipolar%20depression%20with%20the%20syndrome%20of%20internal%20stagnation%20of%20fire-heat%3A%20a%20randomized%20double-blind%20controlled%20trial%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "The treatment of depersonalization-derealization disorder: a systematic review",
@@ -367,7 +420,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22The%20treatment%20of%20depersonalization-derealization%20disorder%3A%20a%20systematic%20review%22",
    "corr": false,
    "cofirst": true,
-   "doi": "10.1080/15299732.2023.2231920"
+   "doi": "10.1080/15299732.2023.2231920",
+   "cofirst_authors": [
+    "Sici Wang",
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Effects of aripiprazole on resting-state functional connectivity of large-scale brain networks in first-episode drug-naïve schizophrenia patients",
@@ -393,7 +451,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Effects%20of%20aripiprazole%20on%20resting-state%20functional%20connectivity%20of%20large-scale%20brain%20networks%20in%20first-episode%20drug-na%C3%AFve%20schizophrenia%20patients%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Serum proteomics analysis of drug-naïve patients with generalised anxiety disorder: Tandem mass tags and multiple reaction monitoring",
@@ -420,7 +480,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Serum%20proteomics%20analysis%20of%20drug-na%C3%AFve%20patients%20with%20generalised%20anxiety%20disorder%3A%20Tandem%20mass%20tags%20and%20multiple%20reaction%20monitoring%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "How BDNF affects working memory in acute sleep deprivation: the mediating role of spontaneous brain activity",
@@ -444,7 +506,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22How%20BDNF%20affects%20working%20memory%20in%20acute%20sleep%20deprivation%3A%20the%20mediating%20role%20of%20spontaneous%20brain%20activity%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "The role of the immune system in depersonalisation disorder",
@@ -472,7 +536,11 @@
    "scholar": "https://scholar.google.com/scholar?q=%22The%20role%20of%20the%20immune%20system%20in%20depersonalisation%20disorder%22",
    "corr": false,
    "cofirst": true,
-   "doi": "10.1080/15622975.2024.2346096"
+   "doi": "10.1080/15622975.2024.2346096",
+   "cofirst_authors": [
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Study of cognitive function and social function in the subhealthy people with spleen qi deficiency syndrome",
@@ -495,7 +563,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Study%20of%20cognitive%20function%20and%20social%20function%20in%20the%20subhealthy%20people%20with%20spleen%20qi%20deficiency%20syndrome%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Altered functional connectivity of the thalamus subregions associated with impaired attention after sleep deprivation",
@@ -518,7 +588,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20functional%20connectivity%20of%20the%20thalamus%20subregions%20associated%20with%20impaired%20attention%20after%20sleep%20deprivation%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Traditional Chinese Medicine Syndromes in Depressive Episodes of Bipolar Disorder Based on Cluster Analysis and Bayesian Network: A Cross-sectional Study",
@@ -542,7 +614,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Traditional%20Chinese%20Medicine%20Syndromes%20in%20Depressive%20Episodes%20of%20Bipolar%20Disorder%20Based%20on%20Cluster%20Analysis%20and%20Bayesian%20Network%3A%20A%20Cross-sectional%20Study%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Manic Residual Symptoms Also Deserve Attention: A Symptom Network Analysis of Residual Symptoms in Bipolar Disorder",
@@ -565,7 +639,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Manic%20Residual%20Symptoms%20Also%20Deserve%20Attention%3A%20A%20Symptom%20Network%20Analysis%20of%20Residual%20Symptoms%20in%20Bipolar%20Disorder%22",
    "corr": false,
    "cofirst": true,
-   "doi": "10.2147/NDT.S466090"
+   "doi": "10.2147/NDT.S466090",
+   "cofirst_authors": [
+    "Yan Zhao",
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Clinical characteristics of 217 Chinese cases with depersonalization/derealization disorder",
@@ -593,7 +672,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Clinical%20characteristics%20of%20217%20Chinese%20cases%20with%20depersonalization/derealization%20disorder%22",
    "corr": false,
    "cofirst": true,
-   "doi": "10.1186/s12888-024-06028-z"
+   "doi": "10.1186/s12888-024-06028-z",
+   "cofirst_authors": [
+    "Mingkang Song",
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Unraveling the brain dynamics of Depersonalization-Derealization Disorder: a dynamic functional network connectivity analysis",
@@ -617,7 +701,11 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Unraveling%20the%20brain%20dynamics%20of%20Depersonalization-Derealization%20Disorder%3A%20a%20dynamic%20functional%20network%20connectivity%20analysis%22",
    "corr": false,
    "cofirst": true,
-   "doi": "10.1186/s12888-024-06096-1"
+   "doi": "10.1186/s12888-024-06096-1",
+   "cofirst_authors": [
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Safety and effectiveness of transcutaneous auricular vagus nerve stimulation on patients with depersonalization-derealization disorder: study protocol for a randomized controlled trial",
@@ -640,7 +728,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Safety%20and%20effectiveness%20of%20transcutaneous%20auricular%20vagus%20nerve%20stimulation%20on%20patients%20with%20depersonalization-derealization%20disorder%3A%20study%20protocol%20for%20a%20randomized%20controlled%20trial%22",
    "corr": false,
    "cofirst": true,
-   "doi": "10.1186/s13063-024-08658-w"
+   "doi": "10.1186/s13063-024-08658-w",
+   "cofirst_authors": [
+    "Yan Zhao",
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Cyclothymic temperament, physical neglect, and earlier age of onset predict poor medication adherence in patients with bipolar disorder",
@@ -665,7 +758,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Cyclothymic%20temperament%2C%20physical%20neglect%2C%20and%20earlier%20age%20of%20onset%20predict%20poor%20medication%20adherence%20in%20patients%20with%20bipolar%20disorder%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Variation in self and familiar facial recognition in bipolar disorder patients at different clinical stages",
@@ -690,7 +785,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Variation%20in%20self%20and%20familiar%20facial%20recognition%20in%20bipolar%20disorder%20patients%20at%20different%20clinical%20stages%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Metabolic changes in patients with bipolar disorder in spring",
@@ -715,7 +812,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Metabolic%20changes%20in%20patients%20with%20bipolar%20disorder%20in%20spring%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Disrupted white matter network connectivity associated with cognitive declines in psychogenic erectile dysfunction",
@@ -740,7 +839,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Disrupted%20white%20matter%20network%20connectivity%20associated%20with%20cognitive%20declines%20in%20psychogenic%20erectile%20dysfunction%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Altered functional connectivity of large-scale brain networks in psychogenic erectile dysfunction associated with cognitive impairments",
@@ -767,7 +868,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20functional%20connectivity%20of%20large-scale%20brain%20networks%20in%20psychogenic%20erectile%20dysfunction%20associated%20with%20cognitive%20impairments%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Effect of Shi-Zhen-An-Shen herbal formula granule in the treatment of young people at ultra-high risk for psychosis: a pilot study",
@@ -790,7 +893,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Effect%20of%20Shi-Zhen-An-Shen%20herbal%20formula%20granule%20in%20the%20treatment%20of%20young%20people%20at%20ultra-high%20risk%20for%20psychosis%3A%20a%20pilot%20study%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Correlation-distance graph learning for treatment response prediction from rs-fMRI",
@@ -814,7 +919,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Correlation-distance%20graph%20learning%20for%20treatment%20response%20prediction%20from%20rs-fMRI%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Altered white matter structural network connectivity associated with cognitive declines in psychogenic erectile dysfunction",
@@ -839,7 +946,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20white%20matter%20structural%20network%20connectivity%20associated%20with%20cognitive%20declines%20in%20psychogenic%20erectile%20dysfunction%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Altered functional connectivity after acute sleep deprivation reveals potential locations for noninvasive brain stimulation techniques",
@@ -865,7 +974,11 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20functional%20connectivity%20after%20acute%20sleep%20deprivation%20reveals%20potential%20locations%20for%20noninvasive%20brain%20stimulation%20techniques%22",
    "corr": false,
    "cofirst": true,
-   "doi": "10.1016/j.sleep.2023.08.019"
+   "doi": "10.1016/j.sleep.2023.08.019",
+   "cofirst_authors": [
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Altered functional connectivity in working memory network after acute sleep deprivation",
@@ -892,7 +1005,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20functional%20connectivity%20in%20working%20memory%20network%20after%20acute%20sleep%20deprivation%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Predictive role of machine-learning-based theory of mind in acute phase schizophrenia on social functioning",
@@ -913,7 +1028,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Predictive%20role%20of%20machine-learning-based%20theory%20of%20mind%20in%20acute%20phase%20schizophrenia%20on%20social%20functioning%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "A preliminary study on the therapeutic efficacy of Duloxetine in the treatment of depersonalization-derealization disorder",
@@ -935,7 +1052,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22A%20preliminary%20study%20on%20the%20therapeutic%20efficacy%20of%20Duloxetine%20in%20the%20treatment%20of%20depersonalization-derealization%20disorder%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Exploration of traditional Chinese medicine syndrome discipline of panic disorder based on Cluster analysis and Bayesian network",
@@ -959,7 +1078,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Exploration%20of%20traditional%20Chinese%20medicine%20syndrome%20discipline%20of%20panic%20disorder%20based%20on%20Cluster%20analysis%20and%20Bayesian%20network%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Network analysis of mental and physical symptoms in patients with generalized anxiety disorder",
@@ -983,7 +1104,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Network%20analysis%20of%20mental%20and%20physical%20symptoms%20in%20patients%20with%20generalized%20anxiety%20disorder%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "The guiding role of CHAI Songyan's \"Four Most of the Kidney\" theory in female psychiatric treatment",
@@ -1003,7 +1126,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22The%20guiding%20role%20of%20CHAI%20Songyan%27s%20%22Four%20Most%20of%20the%20Kidney%22%20theory%20in%20female%20psychiatric%20treatment%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Effects of Jie Yu Wan on generalized anxiety disorder: a randomized clinical trial",
@@ -1031,7 +1156,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Effects%20of%20Jie%20Yu%20Wan%20on%20generalized%20anxiety%20disorder%3A%20a%20randomized%20clinical%20trial%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "White matter abnormalities in first-episode patients with depersonalization/derealization disorder: a tract-based spatial statistics study",
@@ -1056,7 +1183,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22White%20matter%20abnormalities%20in%20first-episode%20patients%20with%20depersonalization/derealization%20disorder%3A%20a%20tract-based%20spatial%20statistics%20study%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Altered functional connectivity and topological organization of brain networks correlate to cognitive impairments after sleep deprivation",
@@ -1078,7 +1207,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20functional%20connectivity%20and%20topological%20organization%20of%20brain%20networks%20correlate%20to%20cognitive%20impairments%20after%20sleep%20deprivation%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "The altered intrinsic functional connectivity after acupuncture at shenmen (HT7) in acute sleep deprivation",
@@ -1103,7 +1234,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22The%20altered%20intrinsic%20functional%20connectivity%20after%20acupuncture%20at%20shenmen%20%28HT7%29%20in%20acute%20sleep%20deprivation%22",
    "corr": false,
    "cofirst": true,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [
+    "Yanzhe Ning",
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Potential targets for noninvasive brain stimulation on Depersonalization-Derealization Disorder",
@@ -1128,7 +1264,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Potential%20targets%20for%20noninvasive%20brain%20stimulation%20on%20Depersonalization-Derealization%20Disorder%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Altered functional connectivity of cerebellar networks in first-episode schizophrenia",
@@ -1154,7 +1292,13 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Altered%20functional%20connectivity%20of%20cerebellar%20networks%20in%20first-episode%20schizophrenia%22",
    "corr": false,
    "cofirst": true,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [
+    "Sitong Feng",
+    "Sisi Zheng",
+    "Haoming Zou"
+   ],
+   "corr_authors": []
   },
   {
    "title": "An experimental study of subliminal self-face processing in depersonalization-derealization disorder",
@@ -1178,7 +1322,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22An%20experimental%20study%20of%20subliminal%20self-face%20processing%20in%20depersonalization-derealization%20disorder%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Relationship between Upper-heat and Lower-cold syndrome of generalized anxiety disorder based on hierarchical clustering and complex symptom network",
@@ -1202,7 +1348,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Relationship%20between%20Upper-heat%20and%20Lower-cold%20syndrome%20of%20generalized%20anxiety%20disorder%20based%20on%20hierarchical%20clustering%20and%20complex%20symptom%20network%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Classification model of pulse parameters of unipolar depression and bipolar depression based on machine learning",
@@ -1225,7 +1373,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Classification%20model%20of%20pulse%20parameters%20of%20unipolar%20depression%20and%20bipolar%20depression%20based%20on%20machine%20learning%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "The effect of acupuncture at Shenmen after sleep deprivation on resting-state regional homogeneity of brain: a cortical surface-based analysis",
@@ -1250,7 +1400,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22The%20effect%20of%20acupuncture%20at%20Shenmen%20after%20sleep%20deprivation%20on%20resting-state%20regional%20homogeneity%20of%20brain%3A%20a%20cortical%20surface-based%20analysis%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Effect of acupuncture at Shenmen (HT 7) on amplitude of low frequency fluctuation after sleep deprivation based on cortical analysis",
@@ -1275,7 +1427,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Effect%20of%20acupuncture%20at%20Shenmen%20%28HT%207%29%20on%20amplitude%20of%20low%20frequency%20fluctuation%20after%20sleep%20deprivation%20based%20on%20cortical%20analysis%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "基于功能连接的精神分裂症头针位置预测",
@@ -1296,6 +1450,8 @@
    "corr": false,
    "cofirst": false,
    "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": [],
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%9F%BA%E4%BA%8E%E5%8A%9F%E8%83%BD%E8%BF%9E%E6%8E%A5%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E5%A4%B4%E9%92%88%E4%BD%8D%E7%BD%AE%E9%A2%84%E6%B5%8B%22",
    "source": "CV"
   },
@@ -1322,7 +1478,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E6%B9%BF%E5%85%B3%E8%8A%82%E7%82%8E%E6%82%A3%E8%80%85%E5%80%A6%E6%80%A0%E4%B9%8F%E5%8A%9B%E7%97%87%E7%8A%B6%E4%B8%8E%E4%B8%B4%E5%BA%8A%E6%8C%87%E6%A0%87%E7%9A%84%E5%85%B3%E7%B3%BB%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "徐荣谦教授治疗多发性抽动症的组方规律与疗效评价研究",
@@ -1350,7 +1508,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%BE%90%E8%8D%A3%E8%B0%A6%E6%95%99%E6%8E%88%E6%B2%BB%E7%96%97%E5%A4%9A%E5%8F%91%E6%80%A7%E6%8A%BD%E5%8A%A8%E7%97%87%E7%9A%84%E7%BB%84%E6%96%B9%E8%A7%84%E5%BE%8B%E4%B8%8E%E7%96%97%E6%95%88%E8%AF%84%E4%BB%B7%E7%A0%94%E7%A9%B6%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "石珍安神颗粒改善精神分裂症前驱期患者认知损害的临床观察",
@@ -1375,7 +1535,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E7%9F%B3%E7%8F%8D%E5%AE%89%E7%A5%9E%E9%A2%97%E7%B2%92%E6%94%B9%E5%96%84%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E5%89%8D%E9%A9%B1%E6%9C%9F%E6%82%A3%E8%80%85%E8%AE%A4%E7%9F%A5%E6%8D%9F%E5%AE%B3%E7%9A%84%E4%B8%B4%E5%BA%8A%E8%A7%82%E5%AF%9F%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "Potential locations for non-invasive brain stimulation in treating schizophrenia: a resting-state functional connectivity analysis",
@@ -1397,7 +1559,12 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Potential%20locations%20for%20non-invasive%20brain%20stimulation%20in%20treating%20schizophrenia%3A%20a%20resting-state%20functional%20connectivity%20analysis%22",
    "corr": false,
    "cofirst": true,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [
+    "Yanzhe Ning",
+    "Sisi Zheng"
+   ],
+   "corr_authors": []
   },
   {
    "title": "Paliperidone compared with haloperidol on the theory of mind tasks in schizophrenia: a pilot trial",
@@ -1421,7 +1588,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22Paliperidone%20compared%20with%20haloperidol%20on%20the%20theory%20of%20mind%20tasks%20in%20schizophrenia%3A%20a%20pilot%20trial%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "A preliminary study on efficacy for Shi-zhen-an-shen granules on cognitive impairments in prodromal schizophrenia",
@@ -1446,7 +1615,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22A%20preliminary%20study%20on%20efficacy%20for%20Shi-zhen-an-shen%20granules%20on%20cognitive%20impairments%20in%20prodromal%20schizophrenia%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "《黄帝内经太素》“关格”含义试析",
@@ -1466,6 +1637,8 @@
    "corr": false,
    "cofirst": false,
    "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": [],
    "scholar": "https://scholar.google.com/scholar?q=%22%E3%80%8A%E9%BB%84%E5%B8%9D%E5%86%85%E7%BB%8F%E5%A4%AA%E7%B4%A0%E3%80%8B%E2%80%9C%E5%85%B3%E6%A0%BC%E2%80%9D%E5%90%AB%E4%B9%89%E8%AF%95%E6%9E%90%22",
    "source": "CV"
   },
@@ -1490,7 +1663,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E7%94%9F%E7%89%A9%E5%AD%A6%E5%88%86%E6%9E%90%E9%98%B2%E9%A3%8E%E6%B2%BB%E7%96%97%E4%B8%AD%E9%A3%8E%E7%97%85%E4%B8%AD%E7%BB%8F%E7%BB%9C%E7%9A%84%E4%BD%9C%E7%94%A8%E6%9C%BA%E5%88%B6%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "以 “石水窗笼” 为例探析杨上善名物训诂",
@@ -1510,7 +1685,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E4%BB%A5%20%E2%80%9C%E7%9F%B3%E6%B0%B4%E7%AA%97%E7%AC%BC%E2%80%9D%20%E4%B8%BA%E4%BE%8B%E6%8E%A2%E6%9E%90%E6%9D%A8%E4%B8%8A%E5%96%84%E5%90%8D%E7%89%A9%E8%AE%AD%E8%AF%82%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "“开放科学” 发展中的伦理问题探究——基于医学开放科学领域的分析",
@@ -1533,7 +1710,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E2%80%9C%E5%BC%80%E6%94%BE%E7%A7%91%E5%AD%A6%E2%80%9D%20%E5%8F%91%E5%B1%95%E4%B8%AD%E7%9A%84%E4%BC%A6%E7%90%86%E9%97%AE%E9%A2%98%E6%8E%A2%E7%A9%B6%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E5%8C%BB%E5%AD%A6%E5%BC%80%E6%94%BE%E7%A7%91%E5%AD%A6%E9%A2%86%E5%9F%9F%E7%9A%84%E5%88%86%E6%9E%90%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "可穿戴设备在中医药健康管理中的应用与展望",
@@ -1554,7 +1733,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87%E5%9C%A8%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E4%B8%8E%E5%B1%95%E6%9C%9B%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "不同中医证候类风湿关节炎患者 28 关节肌肉骨骼超声表现差异分析",
@@ -1579,7 +1760,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E4%B8%8D%E5%90%8C%E4%B8%AD%E5%8C%BB%E8%AF%81%E5%80%99%E7%B1%BB%E9%A3%8E%E6%B9%BF%E5%85%B3%E8%8A%82%E7%82%8E%E6%82%A3%E8%80%85%2028%20%E5%85%B3%E8%8A%82%E8%82%8C%E8%82%89%E9%AA%A8%E9%AA%BC%E8%B6%85%E5%A3%B0%E8%A1%A8%E7%8E%B0%E5%B7%AE%E5%BC%82%E5%88%86%E6%9E%90%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "盆底肌功能训练联合艾灸关元穴治疗女性压力性尿失禁的临床研究",
@@ -1607,7 +1790,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E7%9B%86%E5%BA%95%E8%82%8C%E5%8A%9F%E8%83%BD%E8%AE%AD%E7%BB%83%E8%81%94%E5%90%88%E8%89%BE%E7%81%B8%E5%85%B3%E5%85%83%E7%A9%B4%E6%B2%BB%E7%96%97%E5%A5%B3%E6%80%A7%E5%8E%8B%E5%8A%9B%E6%80%A7%E5%B0%BF%E5%A4%B1%E7%A6%81%E7%9A%84%E4%B8%B4%E5%BA%8A%E7%A0%94%E7%A9%B6%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "体检人群中平和质与偏颇质的心理状况比较",
@@ -1631,7 +1816,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E4%BD%93%E6%A3%80%E4%BA%BA%E7%BE%A4%E4%B8%AD%E5%B9%B3%E5%92%8C%E8%B4%A8%E4%B8%8E%E5%81%8F%E9%A2%87%E8%B4%A8%E7%9A%84%E5%BF%83%E7%90%86%E7%8A%B6%E5%86%B5%E6%AF%94%E8%BE%83%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "补肾祛寒治尪汤联合甲氨蝶呤治疗类风湿关节炎系统综述",
@@ -1656,7 +1843,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E8%A1%A5%E8%82%BE%E7%A5%9B%E5%AF%92%E6%B2%BB%E5%B0%AA%E6%B1%A4%E8%81%94%E5%90%88%E7%94%B2%E6%B0%A8%E8%9D%B6%E5%91%A4%E6%B2%BB%E7%96%97%E7%B1%BB%E9%A3%8E%E6%B9%BF%E5%85%B3%E8%8A%82%E7%82%8E%E7%B3%BB%E7%BB%9F%E7%BB%BC%E8%BF%B0%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "孤养对单次延长应激建立的创伤后应激障碍模型大鼠行为学的影响",
@@ -1678,7 +1867,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%AD%A4%E5%85%BB%E5%AF%B9%E5%8D%95%E6%AC%A1%E5%BB%B6%E9%95%BF%E5%BA%94%E6%BF%80%E5%BB%BA%E7%AB%8B%E7%9A%84%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80%E9%9A%9C%E7%A2%8D%E6%A8%A1%E5%9E%8B%E5%A4%A7%E9%BC%A0%E8%A1%8C%E4%B8%BA%E5%AD%A6%E7%9A%84%E5%BD%B1%E5%93%8D%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "类风湿关节炎患者采用体格检查与超声评估的 28 关节疾病活动评分比较研究",
@@ -1702,7 +1893,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E7%B1%BB%E9%A3%8E%E6%B9%BF%E5%85%B3%E8%8A%82%E7%82%8E%E6%82%A3%E8%80%85%E9%87%87%E7%94%A8%E4%BD%93%E6%A0%BC%E6%A3%80%E6%9F%A5%E4%B8%8E%E8%B6%85%E5%A3%B0%E8%AF%84%E4%BC%B0%E7%9A%84%2028%20%E5%85%B3%E8%8A%82%E7%96%BE%E7%97%85%E6%B4%BB%E5%8A%A8%E8%AF%84%E5%88%86%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "基于关联规则的李军祥教授治疗痞满用药规律研究",
@@ -1725,7 +1918,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%9F%BA%E4%BA%8E%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E7%9A%84%E6%9D%8E%E5%86%9B%E7%A5%A5%E6%95%99%E6%8E%88%E6%B2%BB%E7%96%97%E7%97%9E%E6%BB%A1%E7%94%A8%E8%8D%AF%E8%A7%84%E5%BE%8B%E7%A0%94%E7%A9%B6%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "慢性胃炎中医证候要素辨证量表研究",
@@ -1748,7 +1943,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E6%85%A2%E6%80%A7%E8%83%83%E7%82%8E%E4%B8%AD%E5%8C%BB%E8%AF%81%E5%80%99%E8%A6%81%E7%B4%A0%E8%BE%A8%E8%AF%81%E9%87%8F%E8%A1%A8%E7%A0%94%E7%A9%B6%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "补肾祛寒治尪汤联合甲氨蝶呤治疗类风湿关节炎系统综述",
@@ -1772,7 +1969,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E8%A1%A5%E8%82%BE%E7%A5%9B%E5%AF%92%E6%B2%BB%E5%B0%AA%E6%B1%A4%E8%81%94%E5%90%88%E7%94%B2%E6%B0%A8%E8%9D%B6%E5%91%A4%E6%B2%BB%E7%96%97%E7%B1%BB%E9%A3%8E%E6%B9%BF%E5%85%B3%E8%8A%82%E7%82%8E%E7%B3%BB%E7%BB%9F%E7%BB%BC%E8%BF%B0%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "基于慕太师中空多功能枕改善睡眠障碍的初步探讨",
@@ -1794,7 +1993,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%9F%BA%E4%BA%8E%E6%85%95%E5%A4%AA%E5%B8%88%E4%B8%AD%E7%A9%BA%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%9E%95%E6%94%B9%E5%96%84%E7%9D%A1%E7%9C%A0%E9%9A%9C%E7%A2%8D%E7%9A%84%E5%88%9D%E6%AD%A5%E6%8E%A2%E8%AE%A8%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "基于 CBL 教学法的医学慕课辅助网站设计",
@@ -1819,7 +2020,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%9F%BA%E4%BA%8E%20CBL%20%E6%95%99%E5%AD%A6%E6%B3%95%E7%9A%84%E5%8C%BB%E5%AD%A6%E6%85%95%E8%AF%BE%E8%BE%85%E5%8A%A9%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "中药葛根对糖尿病的相关研究进展",
@@ -1840,7 +2043,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E4%B8%AD%E8%8D%AF%E8%91%9B%E6%A0%B9%E5%AF%B9%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "多发性抽动症中医药动物实验研究现状及评价",
@@ -1863,7 +2068,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22%E5%A4%9A%E5%8F%91%E6%80%A7%E6%8A%BD%E5%8A%A8%E7%97%87%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%8A%A8%E7%89%A9%E5%AE%9E%E9%AA%8C%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E5%8F%8A%E8%AF%84%E4%BB%B7%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   },
   {
    "title": "The Impact of Seasonal Changes on Metabolites in Bipolar Disorder: A Winter Solstice Study on Serum Target Metabolomics",
@@ -1886,7 +2093,9 @@
    "scholar": "https://scholar.google.com/scholar?q=%22The%20Impact%20of%20Seasonal%20Changes%20on%20Metabolites%20in%20Bipolar%20Disorder%3A%20A%20Winter%20Solstice%20Study%20on%20Serum%20Target%20Metabolomics%22",
    "corr": false,
    "cofirst": false,
-   "doi": ""
+   "doi": "",
+   "cofirst_authors": [],
+   "corr_authors": []
   }
  ]
 }
