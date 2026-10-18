@@ -1,6 +1,6 @@
 {
  "source": "Google Scholar export + CV",
- "generated": "2026-10-14",
+ "generated": "2026-10-18",
  "profile": {
   "name": "Sisi Zheng",
   "name_zh": "郑思思",
@@ -21,6 +21,27 @@
   "scholar": "https://scholar.google.com/citations?user=lcR6jlIAAAAJ"
  },
  "publications": [
+  {
+   "title": "Clinical Improvement Following Multimodal Treatment in Depersonalization-Derealization Disorder: A Case Report",
+   "authors": [
+    "Qiyu Zheng",
+    "Yan Zhao",
+    "Sisi Zheng",
+    "Hong Zhu"
+   ],
+   "venue": "Journal of Visualized Experiments (JoVE)",
+   "volume": "",
+   "number": "236",
+   "pages": "e73632",
+   "year": "2026",
+   "lang": "en",
+   "first": false,
+   "last": false,
+   "scholar": "https://scholar.google.com/scholar?q=%22Clinical%20Improvement%20Following%20Multimodal%20Treatment%20in%20Depersonalization-Derealization%20Disorder%3A%20A%20Case%20Report%22",
+   "corr": false,
+   "cofirst": false,
+   "doi": "10.3791/73632"
+  },
   {
    "title": "Understanding psychiatrist readiness for AI: a study of access, self-efficacy, trust, and design expectations",
    "authors": [
